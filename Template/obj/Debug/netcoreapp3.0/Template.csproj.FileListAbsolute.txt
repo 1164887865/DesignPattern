@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Designpattern\Template\bin\Debug\netcoreapp3.0\Template.exe
+C:\Users\Admin\source\repos\Designpattern\Template\bin\Debug\netcoreapp3.0\Template.deps.json
+C:\Users\Admin\source\repos\Designpattern\Template\bin\Debug\netcoreapp3.0\Template.runtimeconfig.json
+C:\Users\Admin\source\repos\Designpattern\Template\bin\Debug\netcoreapp3.0\Template.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Designpattern\Template\bin\Debug\netcoreapp3.0\Template.dll
+C:\Users\Admin\source\repos\Designpattern\Template\bin\Debug\netcoreapp3.0\Template.pdb
+C:\Users\Admin\source\repos\Designpattern\Template\obj\Debug\netcoreapp3.0\Template.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Designpattern\Template\obj\Debug\netcoreapp3.0\Template.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Designpattern\Template\obj\Debug\netcoreapp3.0\Template.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Designpattern\Template\obj\Debug\netcoreapp3.0\Template.dll
+C:\Users\Admin\source\repos\Designpattern\Template\obj\Debug\netcoreapp3.0\Template.pdb

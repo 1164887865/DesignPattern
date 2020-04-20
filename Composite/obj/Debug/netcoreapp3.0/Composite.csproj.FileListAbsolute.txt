@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Designpattern\Composite\bin\Debug\netcoreapp3.0\Composite.exe
+C:\Users\Admin\source\repos\Designpattern\Composite\bin\Debug\netcoreapp3.0\Composite.deps.json
+C:\Users\Admin\source\repos\Designpattern\Composite\bin\Debug\netcoreapp3.0\Composite.runtimeconfig.json
+C:\Users\Admin\source\repos\Designpattern\Composite\bin\Debug\netcoreapp3.0\Composite.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Designpattern\Composite\bin\Debug\netcoreapp3.0\Composite.dll
+C:\Users\Admin\source\repos\Designpattern\Composite\bin\Debug\netcoreapp3.0\Composite.pdb
+C:\Users\Admin\source\repos\Designpattern\Composite\obj\Debug\netcoreapp3.0\Composite.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Designpattern\Composite\obj\Debug\netcoreapp3.0\Composite.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Designpattern\Composite\obj\Debug\netcoreapp3.0\Composite.dll
+C:\Users\Admin\source\repos\Designpattern\Composite\obj\Debug\netcoreapp3.0\Composite.pdb

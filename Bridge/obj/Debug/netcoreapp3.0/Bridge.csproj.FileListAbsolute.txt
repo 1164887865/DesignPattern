@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Designpattern\Bridge\bin\Debug\netcoreapp3.0\Bridge.exe
+C:\Users\Admin\source\repos\Designpattern\Bridge\bin\Debug\netcoreapp3.0\Bridge.deps.json
+C:\Users\Admin\source\repos\Designpattern\Bridge\bin\Debug\netcoreapp3.0\Bridge.runtimeconfig.json
+C:\Users\Admin\source\repos\Designpattern\Bridge\bin\Debug\netcoreapp3.0\Bridge.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Designpattern\Bridge\bin\Debug\netcoreapp3.0\Bridge.dll
+C:\Users\Admin\source\repos\Designpattern\Bridge\bin\Debug\netcoreapp3.0\Bridge.pdb
+C:\Users\Admin\source\repos\Designpattern\Bridge\obj\Debug\netcoreapp3.0\Bridge.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Designpattern\Bridge\obj\Debug\netcoreapp3.0\Bridge.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Designpattern\Bridge\obj\Debug\netcoreapp3.0\Bridge.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Designpattern\Bridge\obj\Debug\netcoreapp3.0\Bridge.dll
+C:\Users\Admin\source\repos\Designpattern\Bridge\obj\Debug\netcoreapp3.0\Bridge.pdb

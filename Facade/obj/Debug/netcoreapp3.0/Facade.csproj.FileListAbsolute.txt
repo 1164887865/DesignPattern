@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Designpattern\Facade\bin\Debug\netcoreapp3.0\Facade.exe
+C:\Users\Admin\source\repos\Designpattern\Facade\bin\Debug\netcoreapp3.0\Facade.deps.json
+C:\Users\Admin\source\repos\Designpattern\Facade\bin\Debug\netcoreapp3.0\Facade.runtimeconfig.json
+C:\Users\Admin\source\repos\Designpattern\Facade\bin\Debug\netcoreapp3.0\Facade.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Designpattern\Facade\bin\Debug\netcoreapp3.0\Facade.dll
+C:\Users\Admin\source\repos\Designpattern\Facade\bin\Debug\netcoreapp3.0\Facade.pdb
+C:\Users\Admin\source\repos\Designpattern\Facade\obj\Debug\netcoreapp3.0\Facade.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Designpattern\Facade\obj\Debug\netcoreapp3.0\Facade.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Designpattern\Facade\obj\Debug\netcoreapp3.0\Facade.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Designpattern\Facade\obj\Debug\netcoreapp3.0\Facade.dll
+C:\Users\Admin\source\repos\Designpattern\Facade\obj\Debug\netcoreapp3.0\Facade.pdb

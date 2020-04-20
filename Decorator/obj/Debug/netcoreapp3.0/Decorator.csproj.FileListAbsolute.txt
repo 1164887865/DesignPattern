@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\Designpattern\Decorator\bin\Debug\netcoreapp3.0\Decorator.exe
+C:\Users\Admin\source\repos\Designpattern\Decorator\bin\Debug\netcoreapp3.0\Decorator.deps.json
+C:\Users\Admin\source\repos\Designpattern\Decorator\bin\Debug\netcoreapp3.0\Decorator.runtimeconfig.json
+C:\Users\Admin\source\repos\Designpattern\Decorator\bin\Debug\netcoreapp3.0\Decorator.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Designpattern\Decorator\bin\Debug\netcoreapp3.0\Decorator.dll
+C:\Users\Admin\source\repos\Designpattern\Decorator\bin\Debug\netcoreapp3.0\Decorator.pdb
+C:\Users\Admin\source\repos\Designpattern\Decorator\obj\Debug\netcoreapp3.0\Decorator.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Designpattern\Decorator\obj\Debug\netcoreapp3.0\Decorator.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Designpattern\Decorator\obj\Debug\netcoreapp3.0\Decorator.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Designpattern\Decorator\obj\Debug\netcoreapp3.0\Decorator.dll
+C:\Users\Admin\source\repos\Designpattern\Decorator\obj\Debug\netcoreapp3.0\Decorator.pdb

@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Designpattern\State\bin\Debug\netcoreapp3.0\State.exe
+C:\Users\Admin\source\repos\Designpattern\State\bin\Debug\netcoreapp3.0\State.deps.json
+C:\Users\Admin\source\repos\Designpattern\State\bin\Debug\netcoreapp3.0\State.runtimeconfig.json
+C:\Users\Admin\source\repos\Designpattern\State\bin\Debug\netcoreapp3.0\State.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Designpattern\State\bin\Debug\netcoreapp3.0\State.dll
+C:\Users\Admin\source\repos\Designpattern\State\bin\Debug\netcoreapp3.0\State.pdb
+C:\Users\Admin\source\repos\Designpattern\State\obj\Debug\netcoreapp3.0\State.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Designpattern\State\obj\Debug\netcoreapp3.0\State.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Designpattern\State\obj\Debug\netcoreapp3.0\State.dll
+C:\Users\Admin\source\repos\Designpattern\State\obj\Debug\netcoreapp3.0\State.pdb
